@@ -1,0 +1,11 @@
+C:\Users\Keanan Chetty\source\repos\MCStore\MCStore\obj\Debug\netcoreapp3.1\MCStore.csprojAssemblyReference.cache
+C:\Users\Keanan Chetty\source\repos\MCStore\MCStore\obj\Debug\netcoreapp3.1\MCStore.AssemblyInfoInputs.cache
+C:\Users\Keanan Chetty\source\repos\MCStore\MCStore\obj\Debug\netcoreapp3.1\MCStore.AssemblyInfo.cs
+C:\Users\Keanan Chetty\source\repos\MCStore\MCStore\bin\Debug\netcoreapp3.1\MCStore.exe
+C:\Users\Keanan Chetty\source\repos\MCStore\MCStore\bin\Debug\netcoreapp3.1\MCStore.deps.json
+C:\Users\Keanan Chetty\source\repos\MCStore\MCStore\bin\Debug\netcoreapp3.1\MCStore.runtimeconfig.json
+C:\Users\Keanan Chetty\source\repos\MCStore\MCStore\bin\Debug\netcoreapp3.1\MCStore.runtimeconfig.dev.json
+C:\Users\Keanan Chetty\source\repos\MCStore\MCStore\bin\Debug\netcoreapp3.1\MCStore.dll
+C:\Users\Keanan Chetty\source\repos\MCStore\MCStore\bin\Debug\netcoreapp3.1\MCStore.pdb
+C:\Users\Keanan Chetty\source\repos\MCStore\MCStore\obj\Debug\netcoreapp3.1\MCStore.dll
+C:\Users\Keanan Chetty\source\repos\MCStore\MCStore\obj\Debug\netcoreapp3.1\MCStore.pdb
